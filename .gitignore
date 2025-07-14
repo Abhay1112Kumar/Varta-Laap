@@ -1,0 +1,14 @@
+# Node modules
+/frontend/node_modules
+/backend/node_modules
+
+# Env files
+/frontend/.env
+/backend/.env
+
+# Build folder
+/frontend/build
+
+# Logs & system files
+npm-debug.log*
+.DS_Store
