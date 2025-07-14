@@ -37,7 +37,7 @@
 //         borderWidth="1px"
 //       >
 //         <Text fontSize="4xl" fontFamily="work sans" color="black" align="center">
-//           Talk-A-Tive
+//           Varta-Laap
 //         </Text>
 //       </Box>
 
@@ -114,7 +114,7 @@ const HomePage = () => {
       borderWidth="1px"
       >
         <Text fontSize="4xl" fontFamily="work sans" color="black"  align="center">
-            Talk-A-Tive
+            Varta-Laap
         </Text>
       </Box>
 

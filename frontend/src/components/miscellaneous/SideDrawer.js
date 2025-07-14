@@ -140,7 +140,7 @@ function SideDrawer() {
 
         {/* App Title */}
         <Text fontSize="2xl" fontFamily="Work sans" fontWeight="bold">
-          Talk-A-Tive
+          Varta-Laap
         </Text>
 
         {/* Notification + Profile */}
